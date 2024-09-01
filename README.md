@@ -1,7 +1,3 @@
-Certainly! Here’s your updated setup guide incorporating Chocolatey for managing the installation of essential development tools.
-
----
-
 ### Setting Up a Windows Computer for Software Development
 
 This guide will walk you through setting up your Windows computer for software development, focusing on Python, React, React Native, Git, GitHub, Docker, PostgreSQL, and more, using Chocolatey as your package manager.
